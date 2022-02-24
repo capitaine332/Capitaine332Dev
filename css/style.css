@@ -83,7 +83,7 @@ p {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-	color: #000;
+	color: rgb(255, 255, 255);
 }
 
 .navbar-dark .navbar-nav .nav-link:focus,
@@ -95,7 +95,7 @@ p {
 .navbar a:hover,
 .navbar a:visited {
 	text-decoration: none;
-	color: #000;
+	color: rgb(255, 255, 255);
 	text-transform: uppercase;
 }
 
